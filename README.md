@@ -1,6 +1,6 @@
 # Olá, eu sou o Kalebe! 👋
 
-Sou estudante de Engenharia de Telecomunicações na Universidade Federal do Pará e estou imergindo no mundo tech, com foco em **Desenvolvimento Web com Python** e curiosidade sobre Ciência de Dados e IA.
+Sou estudante de Engenharia de Telecomunicações na Universidade Federal do Pará e estou imergindo no mundo tech, com foco em Desenvolvimento Web e curiosidade sobre Ciência de Dados e IA.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nclska&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nclska&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
